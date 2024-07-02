@@ -15,9 +15,9 @@ Use this **case-sensitive link** or the QR code below to access this repository:
 
 ## Agenda
 
-* Introduction - William Ratcliff (15 minutes) (slides)
-* Data Science Tools and DSECOP Justification - Mohammad Soltanieh-ha (30 minutes) (slides)
-* Module 1 Overview - Introduction to Data Processing with Histograms - Radha Mastrandrea (1 hour) (slides) (content)
-* Module 2 Overview - Connecting Monte Carlo simulations to modern machine learning methods - Ashley Dale (1 hour) (slides) (content)
-* Sharing Experiences with Teaching DSECOP Modules - Casey Berger (Casey) (20 minutes) (content)
+* Introduction - William Ratcliff (15 minutes) ([slides]())
+* DSECOP Overview and Data Science Tools - Mohammad Soltanieh-ha (30 minutes) ([slides](https://docs.google.com/presentation/d/1_U3kileNFob3YnhSwqMsBKfTnpxlDKsBqzBYq5jzIRs/edit?usp=sharing))
+* Module 1 Overview - Introduction to Data Processing with Histograms - Radha Mastrandrea (1 hour) ([slides](https://github.com/GDS-Education-Community-of-Practice/DSECOP-AAPT-Workshop-2024/blob/main/Presentations/Mastandrea_AAPT_Workshop_Presentation.pdf)) ([notebook](https://github.com/GDS-Education-Community-of-Practice/DSECOP-AAPT-Workshop-2024/blob/main/Notebooks/01_introduction_to_histograms_AAPT_workshop.ipynb))
+* Module 2 Overview - Connecting Monte Carlo simulations to modern machine learning methods - Ashley Dale (1 hour) ([slides]()) ([notebook]())
+* Sharing Experiences with Teaching DSECOP Modules - Casey Berger (Casey) (20 minutes) ([notebook](https://github.com/GDS-Education-Community-of-Practice/DSECOP-AAPT-Workshop-2024/blob/main/Notebooks/Intro_Physics_Simulating_Projectile_Motion_with_Drag.ipynb))
 * Discussion - Alexis Knaub (20 minutes)
