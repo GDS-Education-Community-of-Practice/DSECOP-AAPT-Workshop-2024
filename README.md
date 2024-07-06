@@ -6,11 +6,11 @@ Use this **case-sensitive link** or the QR code below to access this repository:
 
 ## Presenters
 
-* Casey Berger - Smith College
-* Radha Mastrandrea - UC Berkeley
 * William Ratcliff - National Institute of Standards and Technology
 * Mohammad Soltanieh-ha - Boston University
+* Radha Mastrandrea - UC Berkeley
 * Ashley Dale - Indiana University Purdue University Indianapolis
+* Casey Berger - Bates College
 * Alexis Knaub - SEA Change
 
 ## Agenda
