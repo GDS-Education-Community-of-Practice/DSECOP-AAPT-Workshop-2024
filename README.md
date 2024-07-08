@@ -15,7 +15,7 @@ Use this **case-sensitive link** or the QR code below to access this repository:
 
 ## Agenda
 
-* Introduction - William Ratcliff (15 minutes)
+* Introduction - William Ratcliff (15 minutes) ([slides](https://github.com/GDS-Education-Community-of-Practice/DSECOP-AAPT-Workshop-2024/blob/main/Presentations/William-Ratcliff-DSECOP%20AAPT%202024.pptx))
 * DSECOP Overview and Data Science Tools - Mohammad Soltanieh-ha (30 minutes) ([slides](https://docs.google.com/presentation/d/1uXMuruA1tH9v0TqN9gtjalXIN8vur4tzk_eHAFTFx6I/edit?usp=sharing))
 * Module 1 Overview - Introduction to Data Processing with Histograms - Radha Mastrandrea (1 hour) ([slides](https://github.com/GDS-Education-Community-of-Practice/DSECOP-AAPT-Workshop-2024/blob/main/Presentations/Mastandrea_AAPT_Workshop_Presentation.pdf)) ([notebook](https://github.com/GDS-Education-Community-of-Practice/DSECOP-AAPT-Workshop-2024/blob/main/Notebooks/01_introduction_to_histograms_AAPT_workshop.ipynb))
 * Module 2 Overview - Connecting Monte Carlo simulations to modern machine learning methods - Ashley Dale (1 hour) ([slides](https://docs.google.com/presentation/d/1ITYpG1PYaOwMcWjwvl4WkIJ9qO3OLRi2MbFW6V9xXgs/edit?usp=sharing)) ([notebooks](https://github.com/GDS-Education-Community-of-Practice/DSECOP-AAPT-Workshop-2024/tree/main/Notebooks/MonteCarlo-Ising))
